@@ -1,0 +1,27 @@
+
+[
+    {
+      "id": 1,
+    "title": "spłata odkurzacza",
+    "description": "spłata: pozostałe 3 rat po 55 pln",
+    "done": false
+    },
+    {
+      "id":2,
+      "title": "zakup samochodu",
+     "description": "zakup za 55000 pln",
+     "done": true
+    },
+    {
+      "id": 3,
+    "title": "skończyć kurs",
+    "description": "jesteśmy w 9 module: pozostałe 8 modułów",
+    "done": false
+    },
+    {
+      "id": 4,
+      "title": "napisać prosty program do liczenia pierwistków funkcji kwadratowej",
+     "description": "napisany algorytm - zrobić z tego program",
+     "done": false
+    }
+]
